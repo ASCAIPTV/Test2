@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:-1,CA:Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,CA:Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1,CA:CBC Canada
+http://161.0.157.50/PLTV/88888888/224/3221227004/01.m3u8
+#EXTINF:-1,CA:CBC Canada Music
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_TOR@382863/index_96_a-p.m3u8
+#EXTINF:-1,CA:CBC Canada Radio
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/index_96_a-p.m3u8
+#EXTINF:-1,CA:CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcregional_1@141286/index_700_av-p.m3u8
+#EXTINF:-1,CA:CPAC EN
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1,CA:CPAC FR
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:-1,CA:CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1,CA:CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:-1,CA:CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:-1,CA:CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:-1,CA:ICI Radio-Canada Musique 1
+http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1,CA:ICI Radio-Canada Musique 2
+http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO
+#EXTINF:-1,CA:ICI Radio-Canada Premiere
+http://2qmtl0.akacast.akamaistream.net/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1,CA:ICI Radio-Canada RDI
+http://sp02radio.akacast.akamaistream.net/7/501/177423/v1/rc.akacast.akamaistream.net/RDIRADIO
+#EXTINF:-1,CA:ICI Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_1800.m3u8
+#EXTINF:-1,CA:ICI Radio-Canada Tele HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
+#EXTINF:-1,CA:ICI Radio-Canada Tele RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_1800.m3u8
+#EXTINF:-1,CA:ICI Radio-Canada Tele RDI HD
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1,CA:NTV Newfoundland
+http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,CA:The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,CA:Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b1128000.m3u8
+#EXTINF:-1,UK:BBC Alba X
+http://185.53.163.214:5678/ipvt_008
+#EXTINF:-1,UK:BBC News
+http://185.53.163.214:5678/ipvt_006
+#EXTINF:-1,UK:BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1,UK:BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1,UK:BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1,UK:BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1,UK:BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1,UK:BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1,UK:BBC Radio 1 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1,UK:BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1,UK:BBC Radio Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:-1,UK:BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1,UK:BBC Two
+http://185.53.163.214:5678/ipvt_007
+#EXTINF:-1,UK:CBBC
+http://185.53.163.214:5678/ipvt_009
+#EXTINF:-1,UK:Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1,UK:ITV
+http://185.53.163.214:5678/ipvt_001
+#EXTINF:-1,UK:ITV2
+http://185.53.163.214:5678/ipvt_002
+#EXTINF:-1,UK:ITV3
+http://185.53.163.214:5678/ipvt_003
+#EXTINF:-1,UK:ITV4
+http://185.53.163.214:5678/ipvt_004
+#EXTINF:-1,UK:ITVBe
+http://185.53.163.214:5678/ipvt_005
+#EXTINF:-1,UK:RTE News NOW
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1,UK:Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,UK:Sky News HD
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1,UK:STV
+http://185.53.163.214:5678/ipvt_011
+#EXTINF:-1,UK:UTV
+http://185.53.163.214:5678/ipvt_012
+#EXTINF:-1,US:ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,US:ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1,US:ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1,US:ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1,US:ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1,US:ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1,US:ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1,US:ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1,US:ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1,US:ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1,US:ABC News Digital 11
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1,US:Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+#EXTINF:-1,US:Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
+#EXTINF:-1,US:Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,US:AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1,US:Beach TV 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,US:Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,US:Beach TV Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,US:Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1,US:Bravo
+http://161.0.157.7/PLTV/88888888/224/3221226804/01.m3u8
+#EXTINF:-1,US:Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
+#EXTINF:-1,US:CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,US:CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,US:CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
+#EXTINF:-1,US:CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1,US:Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,US:Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,US:Disney Channel
+http://161.0.157.5/PLTV/88888888/224/3221226299/01.m3u8
+#EXTINF:-1,US:ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,US:ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/01.m3u8
+#EXTINF:-1,US:Fox Premium Cinema
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1,US:Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/01.m3u8
+#EXTINF:-1,US:Fox Premium Movies
+http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,US:Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,US:HBO 2 HD
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,US:HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1,US:HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1,US:Investigation Discovery TV
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,US:NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1,US:NBC Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Golf HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:-1,US:NBC News
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:-1,US:NBC Sports Bay Area
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Bay Area HD
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Boston
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Boston HD
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports California
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports California HD
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Chicago
+http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Chicago HD
+http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Northwest
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN1800.m3u8
+#EXTINF:-1,US:NBC Sports Northwest HD
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
+#EXTINF:-1,US:NBC Sports Philadelphia
+http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Philadelphia HD
+http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Philadelphia Plus
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Philadelphia Plus HD
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Washington
+http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/1896k/prog.m3u8
+#EXTINF:-1,US:NBC Sports Washington HD
+http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+#EXTINF:-1,US:Pac-12 Plus
+http://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/index_1728_av-p.m3u8
+#EXTINF:-1,US:PBS Kids
+https://live-cdn.pbskids.org/out/u/aim/wgtv_1.m3u8
+#EXTINF:-1,US:Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,US:QVC
+https://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/chunklist_b2592000.m3u8
+#EXTINF:-1,US:QVC 2
+https://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b2592000.m3u8
+#EXTINF:-1,US:QVC BEAUTY IQ
+https://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b2592000.m3u8
+#EXTINF:-1,US:Sci HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,US:Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,US:Sony Movie Channel HD
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1,US:Telemundo 2 Puerto Rico
+http://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/master.m3u8
+#EXTINF:-1,US:TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,US:Toonami Aftermath (EST)
+http://198.98.58.76:1935/live/est/playlist.m3u8
+#EXTINF:-1,US:Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,US:Universal TV Espanol
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1,US:VOA Radio
+https://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
+#EXTINF:-1,US:VOA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1,US:The Weather Channel
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:-1,US:WGN 9 News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1,US:WPXI 11 News Pittsburgh
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1,US:WWSB
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
